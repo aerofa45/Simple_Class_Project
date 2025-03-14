@@ -37,7 +37,7 @@ class QuizGame:
 - The **class `QuizGame`** contains all the logic for the quiz.  
 - `__init__` (Constructor) initializes the game window and settings.
 
---- # Please understand the use of class, tuple, list and constructor if you want to understand the basic of this program, the main core of this program or logic is this:
+### Please understand the use of class, tuple, list and constructor if you want to understand the basic of this program, the main core of this program or logic is this:
 ```python
 class QuizGame:
     def __init__(self, root):  # Constructor
@@ -68,7 +68,7 @@ class QuizGame:
         self.display_question()  # Call function to show the first question
 ```
 
-# If you understand what I wrote above like classes and constructors, others code is simple logic like using for in lists, and understanding the tkinter library. You can read about library in: https://docs.python.org/3/library/tkinter.html 
+If you understand what I wrote above like classes and constructors, others code is simple logic like using for in lists, and understanding the tkinter library. You can read about library in: https://docs.python.org/3/library/tkinter.html 
 
 ### **(C) Initialize Scores and Questions**
 ```python
